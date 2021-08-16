@@ -1,0 +1,1 @@
+This is an example that how I can create a file and then push to the repository git_test
